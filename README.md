@@ -2,6 +2,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Deploy URL
+  - https://react-next-whatsapp-clone.vercel.app/
+
+How it works
+  - You login using Google Authentication.
+  - You have real-time messaging and 1 on 1 conversations with other people logged on the app.
+  - Can create conversations with different people by adding their gmail address.
+  
+Tech:
+  - React
+  - NextJs
+  - Styled Components
+  - Material UI
+  - Firebase
+  - email-validator
+  - moment
+  - timeago-react
+
 First, run the development server:
 
 ```bash
