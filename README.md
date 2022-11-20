@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Deploy URL
+Vercel Deploy URL
   - https://react-next-whatsapp-clone.vercel.app/
 
 How it works
